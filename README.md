@@ -2,7 +2,7 @@
 
 A beautifully designed, responsive music player built with **HTML**, **CSS**, and **JavaScript**. This modern MP3 player mimics the look and feel of popular streaming apps with features like playlist management, volume control, and media playback.
 
-![Screenshot](./assets/SS.png)
+![Screenshot](.Music-Player-Dshbored/assets/SS.png)
 
 ## 🚀 Features
 
@@ -16,14 +16,13 @@ A beautifully designed, responsive music player built with **HTML**, **CSS**, an
 
 ## 📁 Project Structure
 
-📦 modern-mp3-player/ 
-├── index.html 
-├── styles.css 
-├── script.js 
+📦 modern-mp3-player/
+├── index.html
+├── styles.css
+├── script.js
 ├── assets/
-├── logo1.png│ ├── syahi.jpg│ 
+├── logo1.png│ ├── syahi.jpg│
 └── preview.png
-
 
 ## 🛠️ Technologies Used
 
@@ -35,8 +34,11 @@ A beautifully designed, responsive music player built with **HTML**, **CSS**, an
 ## 🖥️ How to Run Locally
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/yourusername/modern-mp3-player.git
+
+   ```
 
 2. Navigate to the project directory:
 
@@ -48,14 +50,12 @@ A beautifully designed, responsive music player built with **HTML**, **CSS**, an
 
 ## 📌 To Do / Improvements
 
-   1. Add support for uploading local audio files
-   2. Visualizer animations
-   3. Save liked songs with localStorage
-   4. Add dark/light mode toggle
-   5. Mobile menu toggle functionality
+1.  Add support for uploading local audio files
+2.  Visualizer animations
+3.  Save liked songs with localStorage
+4.  Add dark/light mode toggle
+5.  Mobile menu toggle functionality
 
 ## 👨‍💻 Author
 
-> Sumit – @Sumit1003  
-
-
+> Sumit – @Sumit1003
